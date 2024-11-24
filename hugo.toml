@@ -1,0 +1,4 @@
+baseURL = 'https://charlie19910525.github.io'
+languageCode = 'en-us'
+title = 'charlie19910525 Hugo Site'
+theme = 'ananke'
